@@ -1,0 +1,50 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+    background-image: url("https://www.simplilearn.com/ice9/free_resources_article_thumb/Growing_Role_of_Data_Science_and_AI_in_Telecom.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav ul li {
+	display: inline-block;
+}
+
+.code {
+	display: block;
+	padding: 10px;
+	text-decoration: none;
+	color: #fff;
+}
+
+nav ul li a:hover {
+	background-color: #f2f2f2;
+    color: #000;
+}
+
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+}
+
+main {
+	padding: 25px;
+	text-align: center;
+    color: #fff;
+}
+
+h1 {
+	font-size: 3rem;
+	margin-bottom: 20px;
+    color: #fff;
+}
+main p{
+    text-shadow: 2px 2px #333;
+}
